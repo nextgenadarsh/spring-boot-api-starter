@@ -9,7 +9,7 @@ public class RestStarterApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestStarterApplication.class, args);
 
-		System.out.println("Welcome to spring boot !!");
+		System.out.println("Welcome to spring boot !!!");
 	}
 
 }
